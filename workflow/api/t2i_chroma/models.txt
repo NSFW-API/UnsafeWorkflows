@@ -1,0 +1,3 @@
+Chroma: https://huggingface.co/lodestones/Chroma/resolve/main/chroma-unlocked-v27.safetensors
+VAE: https://huggingface.co/ffxvs/vae-flux/resolve/main/ae.safetensors
+Text Encoder: https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors
